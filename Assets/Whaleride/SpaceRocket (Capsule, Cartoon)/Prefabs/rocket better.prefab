@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911860528064810251}
   m_Layer: 0
-  m_Name: rocket
+  m_Name: rocket better
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
